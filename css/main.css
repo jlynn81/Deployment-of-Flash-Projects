@@ -1,6 +1,14 @@
 /*Body of the index.html page */
 body{
 	font-family: 'Belleza', sans-serif;
+	line-height: 125%;
+    text-align: center;
+    border-width: 2em;
+    border-radius: 1.25%; /*10px*/
+    height: 100%;
+    width: 90%; /* 800px */
+    margin: 0 auto;
+    padding: 1.875%; /* 15px/800px */
 }
 
 #full-screen-background-image {
@@ -12,4 +20,23 @@ body{
   position: fixed;
   top: 0;
   left: 0;
+}
+
+h1{
+	color: #232412;
+    text-shadow: 0.1875em 0.1875em 0.1875em #424331;
+    font-size: 3.375em; /* 16px/54px */
+    text-align: center;
+    line-height: 100%;
+    margin: 0;
+    padding: 2.5%; /* 20px/800px */         
+}
+
+footer {
+        color: #a0522d;
+        text-shadow: 0.25em 0.25em 0.25em #424331;
+        text-align: center;
+        background-color: #fff;
+        opacity: 0.5;
+        clear: both;
 }
