@@ -4,12 +4,28 @@ body{
 	font-family: 'Belleza', sans-serif;
 	line-height: 125%;
     text-align: center;
+    background-color: #0D1330;
     border-width: 2em;
     border-radius: 1.25%; /*10px*/
     height: 100%;
     width: 100%;
-    margin: 0 auto;
+    margin: auto;
     padding: 1.875%; /* 15px/800px */
+}
+
+#home{
+	z-index: -999;
+	min-height: 100%;
+	min-width: 59.375%;
+	width: 100%;
+	height: auto;
+	position:fixed;
+	
+}
+
+#sitebranding{
+	margin: 0 auto;
+	padding: 1.5%;
 }
 
 h1{
@@ -19,17 +35,32 @@ h1{
     text-align: center;
     line-height: 100%;
     margin: 0;
-    padding: 2.5%; /* 20px/800px */         
+    padding: 0; /* 20px/800px */         
 }
 
-h2, h3, h4, h5{
-	color:#420722;
+h2{
+	color: #420722;
 	font-size: 3.375em;
 	text-align:center;
-	background-color: #D9D4A3;
 	line-height: 100%;
-	margin:0;
-	padding: 2.5%;
+	margin: 10;
+	padding: 0;
+
+}
+
+table{
+	border-collapse:collapse;
+}
+
+th{
+	text-align: left;
+	background-color: #F2EDC9;
+	color: #663844;
+	padding: 0.3em;
+{
+
+td{
+	border: 1xp solid #FFF;
 }
 
 ul{
@@ -47,10 +78,9 @@ li{
 }
 
 footer {
-        color: #420722;
+        color: #FFF;
         text-shadow: 0.25em 0.25em 0.25em #424331;
         text-align: center;
-        background-color: #000000;
-        opacity: 0.5;
+        background-color: #000;
         clear: both;
 }
