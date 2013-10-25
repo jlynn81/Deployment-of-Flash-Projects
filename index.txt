@@ -37,6 +37,6 @@
 
 
 
-
+	<footer>Copyright 2013 | Jennifer Brown | Deployment of Flash Projects | All Rights Reserved</footer>
 </body>
 </html>
