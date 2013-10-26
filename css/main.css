@@ -4,7 +4,7 @@ body{
 	font-family: 'Belleza', sans-serif;
 	line-height: 125%;
     text-align: center;
-    background-color: #0D1330;
+    background-color: #FFF;
     border-width: 2em;
     border-radius: 1.25%; /*10px*/
     height: 100%;
@@ -16,8 +16,8 @@ body{
 #home{
 	z-index: -999;
 	min-height: 100%;
-	min-width: 59.375%;
-	width: 100%;
+	min-width: 100%;
+	width: auto;
 	height: auto;
 	position:fixed;
 	
@@ -40,7 +40,7 @@ h1{
 
 h2{
 	color: #420722;
-	font-size: 3.375em;
+	font-size: 3em;
 	text-align:center;
 	line-height: 100%;
 	margin: 10;
@@ -50,6 +50,9 @@ h2{
 
 table{
 	border-collapse:collapse;
+	margin-left: 200px;
+	margin-right: 200px;
+	float: left;
 }
 
 th{
@@ -63,19 +66,12 @@ td{
 	border: 1xp solid #FFF;
 }
 
-ul{
-	margin: 0;
-	padding: 0;
-	overflow: auto;
-}
-
-li{
-	width: 18.75%;
-	margin: auto;
-	padding:0;
-	list-style:none;
+#screenshots{
+	float: right;
 	display: inline;
 }
+
+
 
 footer {
         color: #FFF;
