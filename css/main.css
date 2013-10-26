@@ -7,8 +7,6 @@ body{
     background-color: #FFF;
     border-width: 2em;
     border-radius: 1.25%; /*10px*/
-    height: 100%;
-    width: 100%;
    
 }
 
@@ -32,7 +30,7 @@ body{
 h1{
 	color: #0D1330;
     text-shadow: 0.05em 0.05em 0.05em #420722;
-    font-size: 3.375em; /* 16px/54px */
+    font-size: 3em; /* 16px/54px */
     text-align: center;
     line-height: 100%;
     margin: 0;
@@ -41,7 +39,7 @@ h1{
 
 h2{
 	color: #420722;
-	font-size: 3em;
+	font-size: 2em;
 	text-align:center;
 	line-height: 100%;
 	margin: 10;
@@ -49,26 +47,37 @@ h2{
 
 }
 
-.description{
+#description{
 	border: 1px solid #FFF;
 	border-collapse:collapse;
-	margin-left: 200px;
-	margin-right: 200px;
-	padding: 0.3em;
+	border-left-width:1px;
+	margin-left:225px;
+	width: 35%;
+	padding: 1em;
 	float: left;
+	display:inline;
+	-moz-column-count: 1; /* Firefox */
+    -webkit-column-count: 1; /* Safari and Chrome */
 }
 
-.screenshots{
+#screenshots{
+	margin-right: 150px;
 	float: right;
-	display: inline;
+	display: inline;	
+	
 }
 
-
+#flashcontent{
+	float: right;
+	display:inline;
+}
 
 footer {
         color: #FFF;
         text-shadow: 0.25em 0.25em 0.25em #424331;
         text-align: center;
         background-color: #000;
-        clear: both;
+        margin-top: 10px;
+        margin-left: 225px;
+        clear:both;
 }
