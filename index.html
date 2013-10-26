@@ -100,18 +100,18 @@
 		
 			// these parameters are required for badge install:
 			so.addVariable("airversion", "1.0"); // version of AIR runtime required
-			so.addVariable("appname", "My Application"); // application name to display to the user
-			so.addVariable("/Flower_Euphoria/Flower_Euphoria.air", "http://www.mysite.com/sampleApp.air"); // absolute URL (beginning with http or https) of the application ".air" file
+			so.addVariable("appname", "Flower Euphoria"); // application name to display to the user
+			so.addVariable("appurl", "Flower_Euphoria.air"); // absolute URL (beginning with http or https) of the application ".air" file
 		
 			// these parameters are required to support launching apps from the badge (but optional for install):
-			so.addVariable("Flower_Euphoria.air", "MyApplication"); // the qualified application ID (ex. com.gskinner.air.MyApplication)
+			so.addVariable("appid", "FlowersByDay"); // the qualified application ID (ex. com.gskinner.air.MyApplication)
 			so.addVariable("pubid", ""); // publisher id
 		
 			// this parameter is required in addition to the above to support upgrading from the badge:
 			so.addVariable("appversion", "1.0.2"); // AIR application version
 		
 			// these parameters are optional:
-			so.addVariable("image", "demoImage.jpg"); // URL for an image (JPG, PNG, GIF) or SWF to display in the badge (205px wide, 170px high)
+			so.addVariable("image", "images/displayImage.jpg"); // URL for an image (JPG, PNG, GIF) or SWF to display in the badge (205px wide, 170px high)
 			so.addVariable("appinstallarg", "installed from web"); // passed to the application when it is installed from the badge
 			so.addVariable("applauncharg", "launched from web"); // passed to the application when it is launched from the badge
 			so.addVariable("helpurl", "help.html"); // optional url to a page containing additional help, displayed in the badge's help screen
