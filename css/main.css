@@ -18,6 +18,7 @@ body{
 	position: fixed;
 	top: 0;
 	left: 0;
+    opacity: 0.425;
 	
 }
 
@@ -53,6 +54,7 @@ h2{
 	float: left;
 	-moz-column-count: 1; /* Firefox */
     -webkit-column-count: 1; /* Safari and Chrome */
+
 }
 
 #description th{
@@ -61,6 +63,7 @@ h2{
 
 #description td{
     padding-bottom: 1.5em;
+    
 }
 
 /*SCREENSHOT STYLING INFORMATION*/
