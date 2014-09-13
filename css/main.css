@@ -3,8 +3,8 @@
 body{
 	font-family: 'Belleza', sans-serif;
 	line-height: 125%;
-    text-align: center;
     margin: 0 auto;
+    text-align: center;
 
 }
 
@@ -63,6 +63,8 @@ h2{
 
 #description td{
     padding-bottom: 1.5em;
+    padding-top: 0.75em;
+    text-align: left;
 
 }
 
