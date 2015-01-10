@@ -3,7 +3,6 @@
 body{
 	font-family: 'Belleza', sans-serif;
 	line-height: 125%;
-    text-align: center;
     background-color: #FFF;
     border-width: 2em;
     border-radius: 1.25%; /*10px*/
@@ -21,17 +20,17 @@ body{
 	position: fixed;
 	top: 0;
 	left: 0;
-	
+
 }
 
-#sitebranding{
+header{
 	margin: 0 auto;
 	padding: 1.5%;
+	text-align: center;
 }
 
 h1{
 	color: #0D1330;
-    text-shadow: 0.05em 0.05em 0.05em #420722;
     font-size: 3em; /* 16px/54px */
     text-align: center;
     line-height: 100%;
@@ -44,7 +43,7 @@ h2{
 	font-size: 2em;
 	text-align:center;
 	line-height: 100%;
-	margin: 10px;
+	margin: 1em;
 	padding: 0;
 
 }
@@ -52,21 +51,13 @@ h2{
 section{
 	margin-left:225px;
 	width: 35%;
-	padding: 1em;
-	float: left;
+	text-align: left;
 	display:inline;
 	-moz-column-count: 1; /* Firefox */
     -webkit-column-count: 1; /* Safari and Chrome */
 }
 
-#screenshots{
-	margin-right: 150px;
-	float: right;
-	display: inline;	
-	padding-top: 20px;
-	font-size: 1.5em;
-	text-align: right;
-	
+h3{
 }
 
 #flashcontent{
@@ -81,6 +72,5 @@ footer {
         text-align: center;
         background-color: #000;
         margin-top: 10px;
-        margin-left: 225px;
         clear:both;
 }
