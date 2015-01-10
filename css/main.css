@@ -1,34 +1,42 @@
 /*Dark Purple #420722, Dark Blue #0D1330, Cream #D9D4A3, Light Cream #F3EDC9, Pink #9E605E */
 
 body{
-	z-index: -999;
-	min-height: 100%;
-	min-width: 59.375%;
 	font-family: 'Belleza', sans-serif;
 	line-height: 125%;
-	margin: 0 auto;
+    text-align: center;
+    background-color: #FFF;
+    border-width: 2em;
+    border-radius: 1.25%; /*10px*/
+    margin-top: -25px;
+   
 }
 
 #home{
+	z-index: -999;
+	min-height: 100%;
+	min-width: 59.375%;
+	margin-top:-75px;
+	width: 100%;
+	height: 100%;
 	position: fixed;
-	opacity: 0.425;
-
+	top: 0;
+	left: 0;
+	
 }
 
-header{
+#sitebranding{
 	margin: 0 auto;
 	padding: 1.5%;
-	text-align: center;
 }
 
 h1{
 	color: #0D1330;
-	text-shadow: 0.05em 0.05em 0.05em #420722;
-	font-size: 3em; /* 16px/54px */
-	text-align: center;
-	line-height: 100%;
-	margin: 0;
-	padding: 0; /* 20px/800px */
+    text-shadow: 0.05em 0.05em 0.05em #420722;
+    font-size: 3em; /* 16px/54px */
+    text-align: center;
+    line-height: 100%;
+    margin: 0;
+    padding: 0; /* 20px/800px */         
 }
 
 h2{
@@ -41,34 +49,41 @@ h2{
 
 }
 
-/*APPLICATION DESCRIPTION INFORMATION*/
-section{
-	width: 75%;
-	top: 4em;
-	position: relative;
-	left: 2em;
+#description{
+	border: 1px solid #FFF;
+	border-collapse:collapse;
+	border-left-width:1px;
+	margin-left:225px;
+	width: 35%;
+	padding: 1em;
+	float: left;
+	display:inline;
 	-moz-column-count: 1; /* Firefox */
-	-webkit-column-count: 1; /* Safari and Chrome */
+    -webkit-column-count: 1; /* Safari and Chrome */
 }
 
-h3{
-	font-size: 16pt;
-	text-align: left;
+#screenshots{
+	margin-right: 150px;
+	float: right;
+	display: inline;	
+	padding-top: 20px;
+	font-size: 1.5em;
+	text-align: right;
+	
 }
 
-p{
-	padding-bottom: 2em;
-	text-align: left;
-
+#flashcontent{
+	float: right;
+	display:inline;
+	margin-right: 150px;
 }
-
-/*SCREENSHOT STYLING INFORMATION*/
-
 
 footer {
-	color: #FFF;
-	background-color: #000;
-	clear:both;
-	margin-top: 2em;
-	text-align: center;
+        color: #FFF;
+        text-shadow: 0.25em 0.25em 0.25em #424331;
+        text-align: center;
+        background-color: #000;
+        margin-top: 10px;
+        margin-left: 225px;
+        clear:both;
 }

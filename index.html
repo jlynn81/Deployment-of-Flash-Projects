@@ -3,98 +3,113 @@
 
 <head>
 	<meta charset="utf-8"/>
-
+		
 	<title>Flower Euphoria</title>
 	<meta name="viewport" content="width-device-width, initial-scale=1.0, maximum-scale=1.0">
 
 	<!-- SWFObject embed by Geoff Stearns geoff@deconcept.com http://blog.deconcept.com/swfobject/ -->
 	<script type="text/javascript" src="swfobject.js"></script>
-
+	
 	<link rel="stylesheet" href="css/main.css">
-
+	
 	<!--Web Fonts for the site -->
 	<link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
 
 
 </head>
 
-<!-- Body content for the Website to attract users for the application -->
+<!-- Body content for the Website to attrack users for the application -->
 <body>
-
-<img id="home" src="images/flowerborder.png"  alt="home"/>
-
-<header>
-	<img src="images/logo512.png" width="250" height="250" alt="logo">
-
-	<h1>Flower Euphoria</h1></div>
-
-	<h2><strong>Bringing Flowers to People One Day At a Time</strong></h2>
-
-</header>
-
+	
+		<div id="home"><img src="images/flowerborder.png"  alt="home"/></div>
+	
+		<div id="sitebranding"><img src="images/logo512.png" width="250" height="250" alt="logo">
+		
+		<h1>Flower Euphoria</h1></div>
+	
+		<h2><strong>Bringing Flowers to People One Day At a Time</strong></h2>	
+		
+		
 <!-- Descriptor to the User for information prior to download -->
-<section>
+		<div id="description">
+			<table>
+				<tr>
+					<th>Why Flower Euphoria?</th>
+				</tr>
+				<tr>
+					<td>Flowers brighten our days and fill us with joy and smiles. If we were sent
+					flowers every day then our smiles would carry throughout the days and weeks
+					to come. Flower Euphoria delivers a different flower everyday to your
+					computer, tablet or phone to brighten your day and bring a smile to you. Not
+					only will you see a new flower everyday but a little bit of information about
+					that flower and any unique details that might pertain to it. </td>
+				</tr>	
+				<tr>
+					<th>Functionality</th>
+				</tr>
+				<tr>
+					<td>Flower Euphoria provides a flower per day to the user.  The application can 
+					sit on the desk top as a small window or minimized to the task bar.  When 
+					the User wants a cherry disposition to come over them, they can maximize the 
+					application and view an image of a flower and some interesting details regarding that
+					flower being displayed.</td>
+				</tr>
+				<tr>
+					<th>Upcoming Features</th>
+				</tr>
+				<tr>
+					<td>As Flower Euphoria grows and comes to evolve, the future concept of the Adobe
+					AIR project will be to generate a user input for birthdays and other favorite
+					events that they may schedule in a calendar. This will allow the user to view
+					flowers for there respective birthday and any day that is of importance to
+					them. Along with a custom calendar event, they will be able to link to a florist
+					either in their immediate area or any online florist and order flowers for any
+					occasion as well through the application.</td>
+				</tr>
+			</table>
+		</div>		
+		
+<!-- Screenshots for the Application -->
+		<div id="screenshots">
+			<table>
+				<tbody>
+					<tr>
+						<th>Screenshots</th>
+					</tr>
+					<tr>
+						<td><img title="Logon Screen" src="images/logon_screen.png" alt=" "></td>
+						<td><img title="Result Window" src="images/result_window.png" alt=" "></td>
+					</tr>
+				</tbody>
+			</table>					
+		</div>	
+		
+<!-- BEGIN EMBED CODE -->
 
-	<h3>Why Flower Euphoria?</h3>
+		<div id="flashcontent" style="width:215px; height:180px;">
+			<strong>Please upgrade your Flash Player</strong>
+			This is the content that would be shown if the user does not have Flash Player 6.0.65 or higher installed.
+		</div>
 
-	<p>Flowers brighten our days and fill us with joy and smiles. If we were sent
-		flowers every day then our smiles would carry throughout the days and weeks
-		to come. Flower Euphoria delivers a different flower everyday to your
-		computer, tablet or phone to brighten your day and bring a smile to you. Not
-		only will you see a new flower everyday but a little bit of information about
-		that flower and any unique details that might pertain to it. </p>
-
-	<h3>Functionality</h3>
-
-	<p>Flower Euphoria provides a flower per day to the user.  The application can
-		sit on the desk top as a small window or minimized to the task bar.  When
-		the User wants a cherry disposition to come over them, they can maximize the
-		application and view an image of a flower and some interesting details regarding that
-		flower being displayed.</p>
-
-	<h3>Upcoming Features</h3>
-
-	<p>As Flower Euphoria grows and comes to evolve, the future concept of the Adobe
-		AIR project will be to generate a user input for birthdays and other favorite
-		events that they may schedule in a calendar. This will allow the user to view
-		flowers for there respective birthday and any day that is of importance to
-		them. Along with a custom calendar event, they will be able to link to a florist
-		either in their immediate area or any online florist and order flowers for any
-		occasion as well through the application.</p>
-
-	<!-- Screenshots for the Application -->
-	<h3>Screenshots</h3>
-
-	<p><img title="Result Window" src="images/result_window.png" alt=" ">
-		<img title="Logon Screen" src="images/logon_screen.png" alt=" "></p>
-
-	<h3>Flower Euphoria Application</h3>
-
-	<p id="flashcontent">
-
-		<strong>Please upgrade your Flash Player</strong>
-		This is the content that would be shown if the user does not have Flash Player 6.0.65 or higher installed.
-
-		<!-- BEGIN EMBED CODE -->
 		<script type="text/javascript">
 			// <![CDATA[
-
+		
 			// version 9.0.115 or greater is required for launching AIR apps.
 			var so = new SWFObject("AIRInstallBadge.swf", "Badge", "215", "180", "9.0.115", "#FFFFFF");
 			so.useExpressInstall('expressinstall.swf');
-
+		
 			// these parameters are required for badge install:
 			so.addVariable("airversion", "1.0"); // version of AIR runtime required
 			so.addVariable("appname", "Flower Euphoria"); // application name to display to the user
 			so.addVariable("appurl", "http://jlynn81.github.io/Deployment-of-Flash-Projects/Flower_Euphoria.air"); // absolute URL (beginning with http or https) of the application ".air" file
-
+		
 			// these parameters are required to support launching apps from the badge (but optional for install):
 			so.addVariable("appid", "FlowersByDay"); // the qualified application ID (ex. com.gskinner.air.MyApplication)
 			so.addVariable("pubid", ""); // publisher id
-
+		
 			// this parameter is required in addition to the above to support upgrading from the badge:
 			so.addVariable("appversion", "1.0.2"); // AIR application version
-
+		
 			// these parameters are optional:
 			so.addVariable("image", "images/displayImage.jpg"); // URL for an image (JPG, PNG, GIF) or SWF to display in the badge (205px wide, 170px high)
 			so.addVariable("appinstallarg", "installed from web"); // passed to the application when it is installed from the badge
@@ -105,30 +120,21 @@
 			so.addVariable("titlecolor", "#00AAFF"); // changes the color of titles
 			so.addVariable("buttonlabelcolor", "#00AAFF"); // changes the color of the button label
 			so.addVariable("appnamecolor", "#00AAFF"); // changes the color of the application name if the image is not specified or loaded
-
+		
 			// these parameters allow you to override the default text in the badge:
 			// supported strings: str_error, str_err_params, str_err_airunavailable, str_err_airswf, str_loading, str_install, str_launch, str_upgrade, str_close, str_launching, str_launchingtext, str_installing, str_installingtext, str_tryagain, str_beta3, str_beta3text, str_help, str_helptext
 			so.addVariable("str_err_airswf", "<u>Running locally?</u><br/><br/>The AIR proxy swf won't load properly when this demo is run from the local file system."); // overrides the error text when the AIR proxy swf fails to load
-
+		
 			so.write("flashcontent");
-
+		
+			// ]]>
 		</script>
-		<!-- END EMBED CODE -->
 
-	</p>
-
-
-</section>
-
-
-
-
-
-
-
-<!-- Footer information -->
-<footer>Copyright 2013 | Jennifer Brown | Deployment of Flash Projects | All Rights Reserved | Powered by Flickr API</footer>
-
+<!-- END EMBED CODE -->			
+			
+<!-- Footer information -->	
+		<footer>Copyright 2013 | Jennifer Brown | Deployment of Flash Projects | All Rights Reserved | Powered by Flickr API</footer>
+	
 </body>
 
 </html>
