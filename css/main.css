@@ -1,30 +1,24 @@
 /*Dark Purple #420722, Dark Blue #0D1330, Cream #D9D4A3, Light Cream #F3EDC9, Pink #9E605E */
 
 body{
-	font-family: 'Belleza', sans-serif;
-	line-height: 125%;
-    margin: 0 auto;
-    text-align: center;
-
-}
-
-#home{
 	z-index: -999;
 	min-height: 100%;
 	min-width: 59.375%;
-	margin-top:-75px;
-	width: 100%;
-	height: 100%;
-	position: fixed;
-	top: 0;
-	left: 0;
-    opacity: 0.425;
-	
+	font-family: 'Belleza', sans-serif;
+	line-height: 125%;
+	margin: 0 auto;
 }
 
-#sitebranding{
+#home{
+	position: fixed;
+    opacity: 0.425;
+
+}
+
+header{
 	margin: 0 auto;
 	padding: 1.5%;
+	text-align: center;
 }
 
 h1{
@@ -48,43 +42,32 @@ h2{
 }
 
 /*APPLICATION DESCRIPTION INFORMATION*/
-#description{
-	width: 45%;
-	padding: 6em 1em 0 4em;
-	float: left;
+section{
+	width: 75%;
+	top: 4em;
+	position: relative;
+	left: 2em;
 	-moz-column-count: 1; /* Firefox */
     -webkit-column-count: 1; /* Safari and Chrome */
-
 }
 
-#description th{
+h3{
     font-size: 16pt;
+    text-align: left;
 }
 
-#description td{
-    padding-bottom: 1.5em;
-    padding-top: 0.75em;
+p{
+    padding-bottom: 2em;
     text-align: left;
 
 }
 
 /*SCREENSHOT STYLING INFORMATION*/
-#screenshots{
-    margin-top: 6em;
-	float: right;
-	display: inline;	
-	padding-right: 3em;
-	font-size: 16pt;
-	text-align: center;
-	
-}
 
-#screenshots td{
-    display: table;
-}
 
 footer {
         color: #FFF;
         background-color: #000;
         clear:both;
+	margin-top: 2em;
 }
