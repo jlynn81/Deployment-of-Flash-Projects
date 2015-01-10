@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ec283b-524a-4aab-b8b1-683d47c2dc1a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AIRInstallBadge.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.actionScriptProperties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/Flower_Euphoria.air" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/Flower_Euphoria-app.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/Flower_Euphoria.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/FlowersByDay-app.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/FlowersByDay.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo.ai" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/AIRInstallBadge.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.fla" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.swc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/expressinstall.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/swfobject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.actionScriptProperties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.flexLibProperties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.settings/org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/bin/Reusable_Library.swc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/AuxFunctions.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/Equations.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/PropertyInfoObj.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialProperty.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialPropertyModifier.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialPropertySplitter.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/TweenListObj.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/Tweener.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/ColorShortcuts.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/CurveModifiers.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/DisplayShortcuts.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/FilterShortcuts.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/SoundShortcuts.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/TextShortcuts.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorPicker.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorPickerEvent.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorTransform_Box.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/events/ImageEvent.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/image_Stuff/ImageEvent.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/image_Stuff/ImageLoader.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/interfaces/ISprite.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/managers/ScrollerManager.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/managers/SliderManager.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/Circles.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/CreatingReusableShapes.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/Star.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/spectrum/AnimatedSpectrum.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/ui/Label.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/viewer/ImageViewer.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flickr/FlickerService.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flickr/FlickrEvent.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flower_Euphoria-app.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flower_Euphoria.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/events/DataEvents.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/DailyData.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/FlowerVO.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/FlowersView1.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/PhotoVO.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/ResultWindow.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/ScreenLocation.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo.ai" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo128.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/image_Stuff/ImageEvent.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/image_Stuff/ImageLoader.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/viewer/ImageViewer.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flower_Euphoria.air" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/expressinstall.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/displayImage.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/flowerborder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo512.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logon_screen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/result_window.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/swfobject.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="Flower-Euphoria.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
-              <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.8619632" vertical-offset="518" max-vertical-offset="1185">
+              <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="3.2439024" vertical-offset="0" max-vertical-offset="2085">
+            <state vertical-scroll-proportion="-83.125" vertical-offset="0" max-vertical-offset="2085">
               <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
               <folding />
             </state>
@@ -142,8 +55,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -286,7 +199,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21587493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21587493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -322,18 +235,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
-          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="72" selection-end-column="1" />
+        <state vertical-scroll-proportion="-83.125" vertical-offset="0" max-vertical-offset="2085">
+          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.2439024" vertical-offset="0" max-vertical-offset="2085">
-          <caret line="133" column="7" selection-start-line="133" selection-start-column="7" selection-end-line="133" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.8619632" vertical-offset="518" max-vertical-offset="1185">
+          <caret line="72" column="22" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
           <folding />
         </state>
       </provider>
