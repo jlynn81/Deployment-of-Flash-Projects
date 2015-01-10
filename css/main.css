@@ -1,0 +1,73 @@
+/*Dark Purple #420722, Dark Blue #0D1330, Cream #D9D4A3, Light Cream #F3EDC9, Pink #9E605E */
+
+body{
+	z-index: -999;
+	min-height: 100%;
+	min-width: 59.375%;
+	font-family: 'Belleza', sans-serif;
+	line-height: 125%;
+	margin: 0 auto;
+}
+
+#home{
+	position: fixed;
+	opacity: 0.425;
+
+}
+
+header{
+	margin: 0 auto;
+	padding: 1.5%;
+	text-align: center;
+}
+
+h1{
+	color: #0D1330;
+	text-shadow: 0.05em 0.05em 0.05em #420722;
+	font-size: 3em; /* 16px/54px */
+	text-align: center;
+	line-height: 100%;
+	margin: 0;
+	padding: 0; /* 20px/800px */
+}
+
+h2{
+	color: #420722;
+	font-size: 2em;
+	text-align:center;
+	line-height: 100%;
+	margin: 10px;
+	padding: 0;
+
+}
+
+/*APPLICATION DESCRIPTION INFORMATION*/
+section{
+	width: 75%;
+	top: 4em;
+	position: relative;
+	left: 2em;
+	-moz-column-count: 1; /* Firefox */
+	-webkit-column-count: 1; /* Safari and Chrome */
+}
+
+h3{
+	font-size: 16pt;
+	text-align: left;
+}
+
+p{
+	padding-bottom: 2em;
+	text-align: left;
+
+}
+
+/*SCREENSHOT STYLING INFORMATION*/
+
+
+footer {
+	color: #FFF;
+	background-color: #000;
+	clear:both;
+	margin-top: 2em;
+}
