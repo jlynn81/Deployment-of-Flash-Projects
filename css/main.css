@@ -49,10 +49,7 @@ h2{
 
 }
 
-#description{
-	border: 1px solid #FFF;
-	border-collapse:collapse;
-	border-left-width:1px;
+section{
 	margin-left:225px;
 	width: 35%;
 	padding: 1em;

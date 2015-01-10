@@ -2,93 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41ec283b-524a-4aab-b8b1-683d47c2dc1a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AIRInstallBadge.swf" afterPath="$PROJECT_DIR$/AIRInstallBadge.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/AIRInstallBadge.swf" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/AIRInstallBadge.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flower_Euphoria.air" afterPath="$PROJECT_DIR$/Flower_Euphoria.air" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/Flower_Euphoria.air" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/Flower_Euphoria.air" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/Flower_Euphoria.swf" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/Flower_Euphoria.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/FlowersByDay.swf" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/FlowersByDay.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/bin/Reusable_Library.swc" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/bin/Reusable_Library.swc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.fla" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.fla" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.swc" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.swc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets.swf" afterPath="$PROJECT_DIR$/assets.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.swf" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/assets.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/displayImage.jpg" afterPath="$PROJECT_DIR$/images/displayImage.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressinstall.swf" afterPath="$PROJECT_DIR$/expressinstall.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/expressinstall.swf" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/expressinstall.swf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/flowerborder.png" afterPath="$PROJECT_DIR$/images/flowerborder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo.ai" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo.ai" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo.ai" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo128.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo128.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo128.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo128.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo16.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo16.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo16.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo32.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo32.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo32.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo48.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo48.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo48.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo512.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/icons/logo512.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo512.png" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/icons/logo512.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logo512.png" afterPath="$PROJECT_DIR$/images/logo512.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/logon_screen.png" afterPath="$PROJECT_DIR$/images/logon_screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/result_window.png" afterPath="$PROJECT_DIR$/images/result_window.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.actionScriptProperties" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.actionScriptProperties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.actionScriptProperties" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.actionScriptProperties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.flexLibProperties" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.flexLibProperties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.project" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.project" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/spectrum/AnimatedSpectrum.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/spectrum/AnimatedSpectrum.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/AuxFunctions.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/AuxFunctions.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/Circles.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/Circles.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorPicker.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorPicker.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorPickerEvent.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorPickerEvent.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/ColorShortcuts.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/ColorShortcuts.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorTransform_Box.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/color/ColorTransform_Box.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/CreatingReusableShapes.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/CreatingReusableShapes.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/CurveModifiers.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/CurveModifiers.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/DailyData.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/DailyData.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/events/DataEvents.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/events/DataEvents.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/DisplayShortcuts.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/DisplayShortcuts.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/Equations.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/Equations.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/FilterShortcuts.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/FilterShortcuts.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flickr/FlickerService.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flickr/FlickerService.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flickr/FlickrEvent.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flickr/FlickrEvent.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/FlowerVO.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/FlowerVO.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/Flower_Euphoria-app.xml" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/Flower_Euphoria-app.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flower_Euphoria-app.xml" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flower_Euphoria-app.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flower_Euphoria.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/Flower_Euphoria.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/FlowersByDay-app.xml" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/bin-debug/FlowersByDay-app.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/FlowersView1.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/FlowersView1.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/interfaces/ISprite.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/interfaces/ISprite.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/events/ImageEvent.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/events/ImageEvent.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/image_Stuff/ImageEvent.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/image_Stuff/ImageEvent.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/image_Stuff/ImageEvent.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/image_Stuff/ImageEvent.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/image_Stuff/ImageLoader.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/image_Stuff/ImageLoader.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/image_Stuff/ImageLoader.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/image_Stuff/ImageLoader.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/viewer/ImageViewer.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/viewer/ImageViewer.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/viewer/ImageViewer.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/viewer/ImageViewer.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/ui/Label.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/ui/Label.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/PhotoVO.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/PhotoVO.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/PropertyInfoObj.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/PropertyInfoObj.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/ResultWindow.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/ResultWindow.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/ScreenLocation.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/src/com/flowers/ScreenLocation.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/managers/ScrollerManager.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/managers/ScrollerManager.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/managers/SliderManager.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/managers/SliderManager.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/SoundShortcuts.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/SoundShortcuts.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialProperty.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialProperty.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialPropertyModifier.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialPropertyModifier.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialPropertySplitter.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/SpecialPropertySplitter.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/Star.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/shapes/Star.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/TextShortcuts.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/properties/TextShortcuts.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/TweenListObj.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/TweenListObj.as" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/Tweener.as" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/src/caurina/transitions/Tweener.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/reusable_lib/.settings/org.eclipse.core.resources.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/swfobject.js" afterPath="$PROJECT_DIR$/swfobject.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/swfobject.js" afterPath="$PROJECT_DIR$/Flash Builder Project/Flower_Euphoria/libs/swfobject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Flower-Euphoria.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -115,8 +31,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2175">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-17.5" vertical-offset="465" max-vertical-offset="2040">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -125,8 +41,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.40184048" vertical-offset="518" max-vertical-offset="1365">
+              <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -141,8 +57,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -219,6 +135,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="section&#9;ACTION&#9;Arrangement.Rule.Section.Add" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -267,6 +184,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="41ec283b-524a-4aab-b8b1-683d47c2dc1a" name="Default" comment="" />
@@ -323,16 +243,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2175">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-17.5" vertical-offset="465" max-vertical-offset="2040">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.40184048" vertical-offset="518" max-vertical-offset="1365">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
           <folding />
         </state>
       </provider>
